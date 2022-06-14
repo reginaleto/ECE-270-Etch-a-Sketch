@@ -1,11 +1,5 @@
 #include "ofApp.h"
 
-//Lucas Evans
-//Julius Burtell
-//Larico Andres
-//Gina Leto
-//Issa Hachem
-
 //--------------------------------------------------------------
 void ofApp::setup() {
 	//Init Variables
